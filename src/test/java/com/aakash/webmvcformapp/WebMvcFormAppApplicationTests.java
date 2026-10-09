@@ -1,0 +1,13 @@
+package com.aakash.webmvcformapp;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class WebMvcFormAppApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
